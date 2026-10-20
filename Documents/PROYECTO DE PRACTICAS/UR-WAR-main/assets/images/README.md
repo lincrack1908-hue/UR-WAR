@@ -1,0 +1,7 @@
+# Arte del menú de UR WAR
+
+`kingdom_menu.png`: ilustración original generada con la herramienta integrada de generación de imágenes de Codex. Se usa como fondo decorativo del menú; la interfaz y los textos se renderizan en Flutter. No contiene recursos ni personajes de la referencia de The Witcher.
+
+## Prompt utilizado
+
+Create a polished original 16:9 landscape game menu BACKGROUND ART ONLY for UR WAR, a medieval village defense game with four heroes: armored knight, hooded ranger, purple-robed mage and white-gold cleric. Dark fantasy painterly illustration with a restrained premium cinematic atmosphere, intricate silhouette shapes, aged charcoal, muted slate-green mist, warm ember and antique gold highlights. Composition: left 42 percent is quiet near-black forest shadow with very little detail for readable menu text. RIGHT HALF shows the four small heroic figures seen from behind standing on a rocky ridge, knight in foreground with dark red cape, overlooking a walled medieval village with warm lit windows, watchtowers and a distant ruined castle among layered misty mountains at dusk. Strong focal glow in the village near upper-right third. Atmospheric drifting fog, few faint ember sparks. Not photorealistic, finely painted storybook fantasy art with a slightly stylized low-detail game silhouette language. No logos, no lettering, no text, no borders, no interface controls, no existing franchise characters or symbols.
